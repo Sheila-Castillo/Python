@@ -1,8 +1,8 @@
 # Python / 1era Sesión / 
 Esta carperta contiene 3 archivos:
-Sheila - 01 - Tipos de datos
-Sheila - 02 - Variables
-Sheila - 03 - Condicionales
+Sheila - 01 - Tipos de datos,
+Sheila - 02 - Variables,
+Sheila - 03 - Condicionales.
 
 El archivo Sheila - 01 - Tipos de datos contiene los siguientes temas:
 -Escribir código básico en Python
