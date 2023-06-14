@@ -37,7 +37,7 @@ Sheila - 03 - Condicionales es una ampliación del tema Condiciones de la carpet
 -¿Qué es cierto?
 -Ejercicios
 
-Python / 2nda Sesión
+**Python / 2nda Sesión**
 Sesión dedicada a la librería Pandas, específicamente a los objetos DataFrame.
 - Funciones para seleccionar filas columnas
 - Comprobar si un obejto está vacío
