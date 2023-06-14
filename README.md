@@ -36,3 +36,21 @@ Sheila - 03 - Condicionales es una ampliación del tema Condiciones de la carpet
 -Operadores de comparación
 -¿Qué es cierto?
 -Ejercicios
+
+Python / 2nda Sesión
+Sesión dedicada a la librería Pandas, específicamente a los objetos DataFrame.
+- Funciones para seleccionar filas columnas
+- Comprobar si un obejto está vacío
+- Determinar los datos en un DataFrame que son nulos
+- Modificar un valor o entrada específico de un objeto DataFrame usando loc
+- Acceder a un valor o entrada específico de un objeto DataFrame usando loc.
+- Sumar los valores de la columna intentos con sum.
+- Agregar una nueva fila a un objeto DataFrame por medio de loc.
+- Eliminar una fila de un DataFrame con la función drop.
+- Mostrar los n primeros y últimos registros de un objeto DataFrame con head y tail.
+- Agregar una nueva columna a un DataFrame con notación de slicing.
+- Recorrer un df para iterar cada una de las filas de un DataFrame utilizamos la función iterrows.
+- Obtener como una lista Python los nombres de las columnas de un DataFrame.
+- Renombrar las columnas de un objeto DataFrame a partir del diccionario dado.
+- Guardar los registros de un DataFrame en un archivo de formato CSV.
+
