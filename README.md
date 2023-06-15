@@ -55,3 +55,15 @@ Sesión dedicada a la librería Pandas, específicamente a los objetos DataFrame
 - Renombrar las columnas de un objeto DataFrame a partir del diccionario dado.
 - Guardar los registros de un DataFrame en un archivo de formato CSV.
 
+**  Python / 3era Sesión**
+
+- Introducción a Modelos Predictivos (Prophet)
+- Importación de librerías
+- Visualización de datos
+- Bucles
+- Repetir con while
+- Bucle Infinito
+- Continuar un bucle
+- Iterar con for
+- Generar secuencias de números
+- Bucles anidados
