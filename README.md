@@ -67,3 +67,18 @@ Sesión dedicada a la librería Pandas, específicamente a los objetos DataFrame
 - Iterar con for
 - Generar secuencias de números
 - Bucles anidados
+
+  Python / 4ta Sesión
+  - Series de Pandas
+  - Funciones
+- ¿Para qué necesito funciones?
+- Definir una función
+- Invocar a una función
+- Argumentos y parámetros
+- None es útil
+- Especificar parámetros con valores por defecto
+- Reunir/Desplegar argumentos posicionales
+- Documentación
+- Las funciones también son objetos
+- Ejercicios de Funciones
+
