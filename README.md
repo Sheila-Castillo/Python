@@ -68,7 +68,7 @@ Sesión dedicada a la librería Pandas, específicamente a los objetos DataFrame
 - Generar secuencias de números
 - Bucles anidados
 
-  Python / 4ta Sesión
+**  Python / 4ta Sesión**
   - Series de Pandas
   - Funciones
 - ¿Para qué necesito funciones?
